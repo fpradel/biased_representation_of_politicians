@@ -1,6 +1,6 @@
 # Pradel, Franziska (2020): Biased representation of politicians in Google and Wikipedia search? The joint effect of party identity, gender identity and elections
 <div style="text-align: justify">
-Replication materials for our paper:</div></br>
+Replication materials for the paper:</div></br>
 
 *Franziska Pradel. 2020. Biased representation of politicians in Google and Wikipedia search? The joint effect of party identity, gender identity and elections*
 
@@ -11,5 +11,5 @@ Web search engines have become an important and trusted source when people seek 
 Replication
 ---
 <div style="text-align: justify">
-There are all datasets containing the information about politicians used in the analyses or for reproducibility of the study. The data contains the variables necessary for the analyses of the average representation of politicians in search suggestions, politicians' representation in search suggestions around the election and politicans' representation in Wikipedia articles (all using the same dictionary-based apporach to calculate the personal vs. role bias).
+I included all datasets containing the information about politicians used in the analyses for reproducibility of the study. The data contains the variables necessary for the analyses of the average representation of politicians in search suggestions, politicians' representation in search suggestions around the election and politicans' representation in Wikipedia articles (all using the same dictionary-based apporach to calculate the personal vs. role bias).
 </div>
