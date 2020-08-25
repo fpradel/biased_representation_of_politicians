@@ -1,5 +1,3 @@
-
-=======
 # Pradel, Franziska. Biased representation of politicians in Google and Wikipedia search? The joint effect of party identity, gender identity and elections
 <div style="text-align: justify">
 Replication materials for the paper:</div></br>
