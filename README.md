@@ -1,8 +1,4 @@
-# Pradel, Franziska (2020): Biased representation of politicians in Google and Wikipedia search? The joint effect of party identity, gender identity and elections. Political Communication, 1–32. 
-<div style="text-align: justify">
-Replication materials for the paper:</div></br>
 
-Pradel, Franziska (2020). Biased Representation of Politicians in Google and Wikipedia Search? The Joint Effect of Party Identity, Gender Identity and Elections. Political Communication, 1–32. https://doi.org/10.1080/10584609.2020.1793846*
 =======
 # Pradel, Franziska. Biased representation of politicians in Google and Wikipedia search? The joint effect of party identity, gender identity and elections
 <div style="text-align: justify">
