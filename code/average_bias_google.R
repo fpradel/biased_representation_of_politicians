@@ -1,8 +1,8 @@
 
 ################################
-# PART 1: Average bias politicans Bundestag 19
-# FROM one day after the election TO most recnt time (march 2019)
-# 25.09.17 - 16.03.19 
+#
+# Average bias politicans Bundestag 19
+# 
 ################################
 
 ########################
